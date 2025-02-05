@@ -1,16 +1,21 @@
-## Hi there 👋
+### About Me <br>
+Hi there! <br>
+I'm Swapnil Rupnar, I have a passion for Java based Developing, Android development, Web development, and Full Stack Development. I used to creating <br>innovative web applications that make a difference. <br>
 
-<!--
-**Neil1920/Neil1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Professional Background <br>
+I have been honing my skills in various programming languages and technologies. I am particularly interested in developing java applications. <br>
 
-Here are some ideas to get you started:
+### Skills and Achievements <br>
+Here are some of the technologies and tools I work with, as well as my achievements: <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: C, C++, Java, Html, css, android.
+- Frameworks: Android SDK, Bootstrap
+- Tools: Git, Firebase
+
+
+### Get in Touch
+Feel free to reach out if you want to connect, collaborate, or just chat about technology:
+
+- Email: swapnilrupnar2002@gmail.com
+- GitHub: Neil1920
+- LinkedIn: www.linkedin.com/in/adcetswapnilrupnar
